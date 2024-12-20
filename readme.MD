@@ -17,6 +17,8 @@ Crack Detection là một ứng dụng web dựa trên Streamlit sử dụng mô
 ## Demo
 
 ![Ảnh chụp giao diện ứng dụng](demo.png)
+[Demo Huggingface](https://huggingface.co/spaces/ducdatit2002/crack-detection).
+
 
 ## Cài đặt
 
